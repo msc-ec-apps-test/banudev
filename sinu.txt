@@ -1,1 +1,2 @@
+am editig this file for merge conflicts
 hello am updating new file
