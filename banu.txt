@@ -1,4 +1,7 @@
 hello banuchandra
 Hello am updating
 am again updating
-
+hello am added ssh url into this repository
+ssh url updated 
+echo today date is 
+date
